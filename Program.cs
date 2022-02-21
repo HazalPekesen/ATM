@@ -1,4 +1,7 @@
+
 ﻿using System;
+
+
 
 namespace ATM
 {
@@ -6,14 +9,10 @@ namespace ATM
     {
         static void Main(string[] args)
         {
-
-            var berk = "BerkKinq";
-
             var hazal = "hazal";
             var behram = "behram";
             var atm = "alicaner";
             string samet = "samet";
-
 
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
@@ -26,3 +25,4 @@ namespace ATM
         }
     }
 }
+
