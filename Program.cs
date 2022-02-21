@@ -1,3 +1,4 @@
+
 ﻿using System;
 
 namespace ATM
@@ -6,9 +7,10 @@ namespace ATM
     {
         static void Main(string[] args)
         {
-            var ersin = "Ersin";
-
+            var hazal = "hazal";
+            var behram = "behram";
             var atm = "alicaner";
+            string samet = "samet";
 
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
@@ -16,8 +18,9 @@ namespace ATM
             kullanıcı.Login(kullanıcı);
 
             KullanıcıMenu menu = new KullanıcıMenu();
-            menu.cüzdan= -3;
+            menu.cüzdan = -3;
             menu.islemSec();
         }
     }
 }
+
