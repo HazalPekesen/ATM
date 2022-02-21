@@ -6,13 +6,14 @@ namespace ATM
     {
         static void Main(string[] args)
         {
+            var deneme = 12345;
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
             kullanıcı.sifre = "1234";
             kullanıcı.Login(kullanıcı);
 
             KullanıcıMenu menu = new KullanıcıMenu();
-            menu.cüzdan= -3;
+            menu.cüzdan = -3;
             menu.islemSec();
         }
     }
