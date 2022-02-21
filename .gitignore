@@ -1,0 +1,5 @@
+
+*.cs
+obj/Debug/net5.0/ATM.AssemblyInfoInputs.cache
+obj/Debug/net5.0/ATM.csproj.AssemblyReference.cache
+obj/Debug/net5.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
