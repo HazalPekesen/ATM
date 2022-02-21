@@ -1,0 +1,4 @@
+
+*.cs
+obj/Debug/net5.0/ATM.AssemblyInfoInputs.cache
+*.editorconfig
