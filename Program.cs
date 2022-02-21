@@ -1,4 +1,7 @@
+
+
 ﻿using System;
+
 
 namespace ATM
 {
@@ -7,6 +10,17 @@ namespace ATM
         static void Main(string[] args)
         {
             var deneme = 12345;
+
+
+            var tahir = "Tahir";
+
+            var atm = "alicaner";
+
+            var behram = "behram";
+            
+            string samet = "samet";
+
+
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
             kullanıcı.sifre = "1234";
