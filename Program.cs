@@ -13,7 +13,7 @@ namespace ATM
             var atm = "alicaner";
 
             var behram = "behram";
-            var atm = "alicaner";
+            
             string samet = "samet";
 
 
