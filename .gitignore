@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 *.pdb
 .vs/ATM/v17/.suo
 bin/Debug/net5.0/ATM.deps.json
@@ -29,3 +30,12 @@ obj/Debug/net5.0/ATM.csproj.AssemblyReference.cache
 .vs/ATM/v17/.futdcache.v1
 *.cs
 Program.cs
+=======
+*.cs
+obj/Debug/net5.0/ATM.AssemblyInfoInputs.cache
+
+*.editorconfig
+
+obj/Debug/net5.0/ATM.csproj.AssemblyReference.cache
+obj/Debug/net5.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+>>>>>>> 287b8f66a6e1048e90637a2bbce775b7341b318f
