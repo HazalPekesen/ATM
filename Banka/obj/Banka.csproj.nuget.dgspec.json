@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerem.yilmaz\\Documents\\GitHub\\ATM.csproj": {}
+    "C:\\Users\\Kerm\\Desktop\\Banka\\Banka\\Banka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerem.yilmaz\\Documents\\GitHub\\ATM.csproj": {
+    "C:\\Users\\Kerm\\Desktop\\Banka\\Banka\\Banka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerem.yilmaz\\Documents\\GitHub\\ATM.csproj",
-        "projectName": "ATM",
-        "projectPath": "C:\\Users\\kerem.yilmaz\\Documents\\GitHub\\ATM.csproj",
-        "packagesPath": "C:\\Users\\kerem.yilmaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerem.yilmaz\\Documents\\GitHub\\obj\\",
+        "projectUniqueName": "C:\\Users\\Kerm\\Desktop\\Banka\\Banka\\Banka.csproj",
+        "projectName": "Banka",
+        "projectPath": "C:\\Users\\Kerm\\Desktop\\Banka\\Banka\\Banka.csproj",
+        "packagesPath": "C:\\Users\\Kerm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kerm\\Desktop\\Banka\\Banka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kerem.yilmaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

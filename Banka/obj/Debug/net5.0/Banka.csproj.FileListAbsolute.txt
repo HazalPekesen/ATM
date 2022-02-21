@@ -1,0 +1,16 @@
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.csproj.AssemblyReference.cache
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.AssemblyInfoInputs.cache
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.AssemblyInfo.cs
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.csproj.CoreCompileInputs.cache
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.exe
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.deps.json
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.runtimeconfig.json
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.runtimeconfig.dev.json
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.dll
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\ref\Banka.dll
+C:\Users\Kerm\Desktop\Banka\Banka\bin\Debug\net5.0\Banka.pdb
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.dll
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\ref\Banka.dll
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.pdb
+C:\Users\Kerm\Desktop\Banka\Banka\obj\Debug\net5.0\Banka.genruntimeconfig.cache
