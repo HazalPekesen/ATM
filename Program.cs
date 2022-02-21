@@ -19,6 +19,7 @@ namespace ATM
             
             string samet = "samet";
 
+            
 
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
@@ -29,10 +30,13 @@ namespace ATM
             menu.cüzdan= -3;
             menu.islemSec();
         }
+
+        public void ErsinMetot()
+        {
+
+        }
     }
 }
-
-﻿using System;
 
 
 
