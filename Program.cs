@@ -6,7 +6,6 @@ namespace ATM
     {
         static void Main(string[] args)
         {
-            string samet = "Samet";
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
             kullanıcı.sifre = "1234";
