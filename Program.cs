@@ -7,6 +7,7 @@ namespace ATM
         static void Main(string[] args)
         {
             var hazal = "hazal";
+            var atm = "alicaner";
             KullanıcıGiris kullanıcı = new KullanıcıGiris();
             kullanıcı.isim = "hazal";
             kullanıcı.sifre = "1234";
